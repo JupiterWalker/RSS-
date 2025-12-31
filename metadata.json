@@ -1,0 +1,5 @@
+{
+  "name": "Nexus RSS - AI Aggregator",
+  "description": "A modern, multi-platform RSS aggregator (YouTube, X, Blogs) powered by Gemini AI for smart summarization and insights.",
+  "requestFramePermissions": []
+}
